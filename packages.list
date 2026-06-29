@@ -1,0 +1,86 @@
+# Mraprguild Termux All Essential Packages List
+# This is a safe essential collection, not literally every Termux repository package.
+
+# Core Tools
+git
+wget
+curl
+nano
+vim
+micro
+less
+tree
+neofetch
+figlet
+toilet
+openssh
+openssl-tool
+termux-api
+jq
+bc
+htop
+tmux
+screen
+
+# Developer Tools
+python
+python-pip
+nodejs
+php
+ruby
+clang
+make
+cmake
+pkg-config
+autoconf
+automake
+libtool
+binutils
+gdb
+
+# Web Server Tools
+apache2
+nginx
+mariadb
+sqlite
+php-apache
+
+# Network Tools
+nmap
+dnsutils
+whois
+traceroute
+net-tools
+iproute2
+openssh
+
+# Archive Tools
+zip
+unzip
+tar
+gzip
+bzip2
+xz-utils
+p7zip
+unrar
+
+# Media Tools
+ffmpeg
+imagemagick
+exiftool
+
+# Linux / Proot Tools
+proot
+proot-distro
+
+# Optional Termux repositories
+root-repo
+x11-repo
+
+# Python tools installed through pip
+requests
+flask
+rich
+colorama
+yt-dlp
+speedtest-cli
